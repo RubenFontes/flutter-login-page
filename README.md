@@ -1,6 +1,6 @@
 # Login page 
 
-Implementation of a simple login forms with Flutter.
+Implementation of a simple login forms and dark mode with Flutter.
 
 ## Getting Started
 
