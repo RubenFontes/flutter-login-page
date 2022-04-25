@@ -1,6 +1,6 @@
 # Login page 
 
-Implementation of a simple login forms and dark mode with Flutter.
+Simple login form implementation with dark mode in Flutter.
 
 <div align="center"><img align="center" src="https://i.ibb.co/BGwXST0/login.png" width="250px"/>
 <img align="center" src="https://i.ibb.co/dP1p9wh/dark.png" width="250px"/>
@@ -18,4 +18,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-# DarkModeFlutter
+## Download
+<a href="https://github.com/RubenFontes/AppFlutter/releases/tag/1.0.0">App.apk</a>
